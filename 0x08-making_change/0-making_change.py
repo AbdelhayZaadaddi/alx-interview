@@ -18,4 +18,3 @@ def makeChange(coins, total):
         check -= i
         temp -= 1
     return -1
-
